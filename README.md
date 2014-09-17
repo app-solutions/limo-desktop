@@ -2,7 +2,7 @@ LIMO-desktop
 ============
 
 LIMO-Desktop est un petit utilitaire permetant de chiffrer ses messages.
-LIMO-Desktop utilie la librairie [LIMO](https://github.com/app-solutions/limo).
+LIMO-Desktop utilise la librairie [LIMO](https://github.com/app-solutions/limo).
 
 
 Il est actuellement possible de chiffrer les messages avec:
